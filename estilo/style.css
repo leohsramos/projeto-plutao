@@ -141,6 +141,10 @@ main a:hover{
     text-decoration: underline;
 }
 
+main a:after{
+    content: '\0020\1f517';
+}
+
 main img{
     width: 100%;
 }
