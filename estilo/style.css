@@ -118,6 +118,10 @@ main h2{
     text-align: center;
 }
 
+main h2.comocao{
+    margin-top: 50px;
+}
+
 main p{
     font-family: var(--font-padrao);
     padding: 20px;
@@ -179,6 +183,7 @@ div.video > iframe{
     top: 5%;
     left: 5%;
     width: 90%;
+    max-width: 100%;
     height: 90%;
     border-radius: 10px;
 }
@@ -208,7 +213,6 @@ aside > ul{list-style-type: '\2714\0020';
 footer{
     background-color: black;
     padding: 10px;
-    bottom: 100px;
 }
 
 footer > p{
