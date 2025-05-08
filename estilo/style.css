@@ -208,6 +208,7 @@ aside > ul{list-style-type: '\2714\0020';
 footer{
     background-color: black;
     padding: 10px;
+    bottom: 100px;
 }
 
 footer > p{
